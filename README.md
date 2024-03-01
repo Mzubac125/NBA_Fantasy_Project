@@ -1,0 +1,4 @@
+# Background
+Every year me and a group of my friends make an NBA fantasy basketball league. We each put in $100 and then winner of the fantasy league gets the money and often times the loser of the league has to do a dare that we pick before the season starts. Safe to say I definetely want to do good in this league every year. I have always used the approach of just who I think will do good in the season when it comes to picking my players but what if there was a way to use machine learning to help me come up with players to pick. In this notebook I will go over my attempt to make a model that will help predict NBA player performance that will hopefully give me an edge over my friends for the next fantasy season.
+
+In order to do this I will be scraping data from a website called basketball reference that has all the players stats for almost every season.
